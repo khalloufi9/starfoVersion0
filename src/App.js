@@ -14,7 +14,8 @@ import Match from './Component/Responsable/Match';
 import Contact from './Component/Contact/Contact';
 import Matches from './Component/Matches/Matches';
 import Players from './Component/Players/Players';
-import Player from './Component/Responsable/Player'
+import Player from './Component/Responsable/Player';
+import Teams from './Component/Teams/Teams';
 function App() {
   return (
     <div className="App">
@@ -32,7 +33,7 @@ function App() {
       <Route path="/contact" element={<Contact/>}/>
       <Route path="/matches" element={<Matches/>}/>
       <Route path="/players" element={<Players/>}/>
-
+      <Route path="/players/:id" element={<Teams/>}/>
       </Routes>
       </BrowserRouter>
     </div>

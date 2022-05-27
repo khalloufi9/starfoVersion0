@@ -18,26 +18,26 @@ const About = () => {
       <Slider {...settings}>
         <div >
          
-          <img style={{width:"300px", height:"200px",marginLeft:"50px"}} src="https://i1.wp.com/dicodusport.fr/wp-content/uploads/2016/01/football.png?fit=1200%2C670&ssl=1"/>
+          <img style={{width:"300px", height:"200px",marginLeft:"50px",marginTop:"25px"}} src="https://i1.wp.com/dicodusport.fr/wp-content/uploads/2016/01/football.png?fit=1200%2C670&ssl=1"/>
           <p>It is a long established fact that a reader will be </p>
         </div>
         <div>
-        <img style={{width:"300px",height:"200px",marginLeft:"50px"}}src="https://cdnuploads.aa.com.tr/uploads/Contents/2017/09/05/thumbs_b_c_4f7478117e0322f2cda77475cf746b33.jpg?v=234538"/>
+        <img style={{width:"300px",height:"200px",marginLeft:"50px",marginTop:"25px"}}src="https://cdnuploads.aa.com.tr/uploads/Contents/2017/09/05/thumbs_b_c_4f7478117e0322f2cda77475cf746b33.jpg?v=234538"/>
         <p>It is a long established fact that a reader will be </p>
         </div>
         <div>
-        <img style={{width:"300px",height:"200px",marginLeft:"50px"}}src="https://www.lequipe.fr/_medias/img-photo-jpg/michut-et-simons-symbolisent-de-la-difficile-integration-des-jeunes-au-psg-a-reau-l-equipe/1500000001640569/0:0,1998:1332-828-552-75/05e8e.jpg"/>
+        <img style={{width:"300px",height:"200px",marginLeft:"50px",marginTop:"25px"}}src="https://www.lequipe.fr/_medias/img-photo-jpg/michut-et-simons-symbolisent-de-la-difficile-integration-des-jeunes-au-psg-a-reau-l-equipe/1500000001640569/0:0,1998:1332-828-552-75/05e8e.jpg"/>
         <p>It is a long established fact that a reader will be </p>
         </div>
         <div>
-        <img style={{width:"300px",height:"200px",marginLeft:"50px"}}src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD4H83nKg2gE0-anIRwrRC6vOqJii02q3Zukaej_FnR-HZK1c4KpVltLsyM0ZWxIzfzQI&usqp=CAU"/>
+        <img style={{width:"300px",height:"200px",marginLeft:"50px",marginTop:"25px"}}src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD4H83nKg2gE0-anIRwrRC6vOqJii02q3Zukaej_FnR-HZK1c4KpVltLsyM0ZWxIzfzQI&usqp=CAU"/>
         <p>It is a long established fact that a reader will be </p>
         </div>  
       </Slider>
     </div>
     {/**NEXT */}
     <div style={{height:"500px",paddingTop:"50px",backgroundColor:"black"}}>
-      <h2>Next</h2>
+      <h2>Next Match</h2>
     
       <div className='table' >
         <div className='team'>

@@ -49,7 +49,7 @@ const [password,setPassword]=useState("")
                     <button
                         type="submit"
                         className="btn btn-primary btn-block"
-                        style={{marginTop:"10px"}}
+                        style={{marginTop:"10px",width:"150px"}}
 
                     >
                         Login

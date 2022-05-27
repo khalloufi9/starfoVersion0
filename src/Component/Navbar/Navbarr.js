@@ -12,7 +12,6 @@ const Navbarr = () => {
       <Nav.Link href="/home">Home</Nav.Link>
         <Nav.Link href="/matches">Matches</Nav.Link>
         <Nav.Link href="/players">Players</Nav.Link>
-        <Nav.Link href="/blog">Blog</Nav.Link>
         <Nav.Link href="/contact">Contact us</Nav.Link>
       </Nav>
       </Container>

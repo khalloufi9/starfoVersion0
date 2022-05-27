@@ -1,6 +1,6 @@
 import React from 'react'
 import './Contact.css'
-import { Form,FloatingLabel } from 'react-bootstrap'
+import { Form,FloatingLabel,Button } from 'react-bootstrap'
 const Contact = () => {
   return (
    
@@ -29,6 +29,9 @@ const Contact = () => {
       placeholder="Comments"
       style={{ height: '100px',width:"550px" }}
     />
+    <Button variant="success" size="lg"  style={{ height: '45px',width:"550px" }}>
+    Send Message
+  </Button>
 </div>
 
     <div  className='item1' >
